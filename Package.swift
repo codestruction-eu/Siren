@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "Siren",
-    // platforms: [.iOS("8.0")],
+    // platforms: [.iOS("14.0")],
     products: [
         .library(name: "Siren", targets: ["Siren"])
     ],
